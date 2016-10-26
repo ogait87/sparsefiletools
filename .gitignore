@@ -1,0 +1,4 @@
+*.swp
+mksparse
+unsparse
+sparse-cp
